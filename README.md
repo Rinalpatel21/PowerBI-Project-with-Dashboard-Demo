@@ -1,4 +1,3 @@
-For Git Hub
 AdventureWorks Business Intelligence Dashboard (Power BI)
 
 Project Overview
