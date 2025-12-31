@@ -59,9 +59,7 @@ Project Demo
 •	Data model design
 •	Key DAX measures
 •	Interactive dashboard features
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3OdHwQxTy2k?si=TnyGfy9Ehsq3EH6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+[![Watch the Demo](https://img.youtube.com/vi/3OdHwQxTy2k/maxresdefault.jpg)](https://youtu.be/3OdHwQxTy2k)
 
 Insights & Recommendations 
 
