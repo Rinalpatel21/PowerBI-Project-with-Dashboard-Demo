@@ -59,7 +59,7 @@ Project Demo
 •	Data model design
 •	Key DAX measures
 •	Interactive dashboard features
-[Project Demo.webm](https://github.com/user-attachments/assets/5b1a6b61-55bc-48a2-81d4-ff5d44ce83ca)
+[![Watch the Demo](https://img.youtube.com/vi/3OdHwQxTy2k/maxresdefault.jpg)](https://youtu.be/3OdHwQxTy2k)
 
 
 
