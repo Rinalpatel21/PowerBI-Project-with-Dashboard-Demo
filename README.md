@@ -1,3 +1,7 @@
+
+# PowerBI-Project-with-Dashboard-Demo
+End-to-end Power BI dashboard built from raw CSV data to track KPIs, analyze sales, customers, products, and regional performance. Demonstrates data modeling, DAX, Power Query (ETL), and interactive dashboard design with an embedded demo.
+
 # AdventureWorks Business Intelligence Dashboard (Power BI)
 
 ## Project Overview
